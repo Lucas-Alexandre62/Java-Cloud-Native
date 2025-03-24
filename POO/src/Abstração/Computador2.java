@@ -5,12 +5,12 @@ public class Computador2 {
     MSNM msnMSG = new MSNM();
     TelegramM tlg = new TelegramM();
 
-    fcb.enviarM();
-    fcb.receberM();
+    fcb.enviarMensagem();
+    fcb.receberMensagem();
 
-    msnMSG.enviarM();
-    msnMSG.receberM();
+    msnMSG.enviarMensagem();
+    msnMSG.receberMensagem();
 
-    tlg.enviarM();
-    tlg.receberM();
+    tlg.enviarMensagem();
+    tlg.receberMensagem();
 }

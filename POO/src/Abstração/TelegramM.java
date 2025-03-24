@@ -1,10 +1,10 @@
 package Abstração;
 
 public class TelegramM extends ServicoMensagem{
-    public void enviarM() {
+    public void enviarMensagem() {
         System.out.println("Mensagem enviada pelo Telegram");
     }
-    public void receberM() {
+    public void receberMensagem() {
         System.out.println("Mensagem recebida pelo Telegram");
     }
 }
