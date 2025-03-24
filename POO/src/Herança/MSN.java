@@ -1,5 +1,5 @@
 package Herança;
 
-public class MSN extends ServicoMensagemInstantanea{
+public non-sealed class MSN extends ServicoMensagemInstantanea{
 
 }

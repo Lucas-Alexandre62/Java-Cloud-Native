@@ -1,6 +1,6 @@
 package Abstração;
 
-public non-sealed class MSNM extends ServicoMensagem{
+public class MSNM extends ServicoMensagem{
     public void enviarMensagem() {
         System.out.println("Mensagem enviada pelo MSN");
     }

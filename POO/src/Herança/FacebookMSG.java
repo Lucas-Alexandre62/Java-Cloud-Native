@@ -1,5 +1,5 @@
 package Herança;
 
-public class FacebookMSG extends ServicoMensagemInstantanea{
+public non-sealed class FacebookMSG extends ServicoMensagemInstantanea{
 
 }

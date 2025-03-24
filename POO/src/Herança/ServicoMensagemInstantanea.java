@@ -1,6 +1,6 @@
 package Herança;
 
-public class ServicoMensagemInstantanea {
+public sealed class ServicoMensagemInstantanea permits FacebookMSG, MSN, Telegram{
 
     public void enviarMensagem(){
         validarConectadoInternet();

@@ -1,6 +1,6 @@
 package Abstração;
 
-public sealed abstract class ServicoMensagem permits FacebookM, MSNM, TelegramM{
+public abstract class ServicoMensagem {
     public abstract void enviarMensagem();
     public abstract void receberMensagem();
 }

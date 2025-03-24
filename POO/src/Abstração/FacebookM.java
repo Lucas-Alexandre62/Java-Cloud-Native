@@ -1,6 +1,6 @@
 package Abstração;
 
-public non-sealed class FacebookM extends ServicoMensagem{
+public class FacebookM extends ServicoMensagem{
     public void enviarMensagem() {
         System.out.println("Mensagem enviada pelo Facebook");
     }
