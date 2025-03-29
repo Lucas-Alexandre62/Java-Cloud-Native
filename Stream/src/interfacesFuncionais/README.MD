@@ -252,6 +252,8 @@ public class BinaryOperatorExample {
 
 ---
 
+*Essa anotação pertence a: https://github.com/cami-la*
+
 ### Referências:
 
 [1] "Java 8 Functional Interfaces." Baeldung. Disponível em: https://www.baeldung.com/java-8-functional-interfaces.
